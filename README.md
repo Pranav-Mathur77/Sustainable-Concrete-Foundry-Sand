@@ -56,23 +56,24 @@ This project investigates the use of **foundry sand as a partial replacement of 
 
 ### 🏗️ Compression Testing Machine (CTM)
 
- images/ctm-testing-setup.jpg  
+![Compression Testing Machine (CTM)](images/ctm-testing-setup.jpg)  
 
 ### ⚙️ Compression Testing Machine (Full View)
 
- images/compression-testing-machine.jpg  
-
+![Compression Testing Machine (Full View)](images/compression-testing-machine.jpg)
+   
 ### 🧱 Concrete Cube Specimen
 
- images/concrete-cube-specimen.jpg  
-
+![Concrete Cube Specimen](images/concrete-cube-specimen.jpg)
+  
 ### 📊 Load Application During Testing
 
- images/ctm-load-application.jpg  
-
+![Load Application During Testing](images/ctm-load-application.jpg)
+   
 ### 🧩 Concrete Cube Batch
 
- images/concrete-cubes-batch.jpg  
+![Concrete Cube Batch](images/concrete-cubes-batch.jpg)
+   
 
 ---
 
