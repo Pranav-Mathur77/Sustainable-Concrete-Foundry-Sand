@@ -77,6 +77,17 @@ This project investigates the use of **foundry sand as a partial replacement of 
 
 ---
 
+### 🔹 Compressive Strength vs Curing Days
+![Compressive Strength](graphs/compressive-strength-comparison.png)
+
+### 🔹 Slump Test (Line Graph)
+![Slump Line](graphs/slump-test-line-graph.png)
+
+### 🔹 Slump Comparison (Bar Chart)
+![Slump Bar](graphs/slump-comparison-bar-chart.png)
+
+---
+
 ## 📊 Data & Analysis
 
 * Experimental data stored in `/data`
